@@ -1,1 +1,1 @@
-docker system prune --all --force
+#docker system prune --all --force
